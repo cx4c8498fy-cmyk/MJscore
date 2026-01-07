@@ -1,0 +1,576 @@
+[
+  {
+    "roundInfo": "東1局",
+    "isDealer": true,
+    "isRiichi": false,
+    "doraIndicators": [],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "1m",
+          "2m",
+          "3m"
+        ],
+        [
+          "3p",
+          "4p",
+          "5p"
+        ],
+        [
+          "4s",
+          "5s",
+          "6s"
+        ],
+        [
+          "6p",
+          "7p",
+          "8p"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [],
+      "concealedKans": []
+    },
+    "winningTileIndex": 11,
+    "yaku": [
+      "ピンフ",
+      "ツモ"
+    ],
+    "han": 2,
+    "fu": 20,
+    "correctAnswer": "700all"
+  },
+  {
+    "roundInfo": "東4局",
+    "isDealer": true,
+    "isRiichi": false,
+    "doraIndicators": [],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "2m",
+          "3m",
+          "4m"
+        ],
+        [
+          "3p",
+          "4p",
+          "5p"
+        ],
+        [
+          "4s",
+          "5s",
+          "6s"
+        ],
+        [
+          "6p",
+          "7p",
+          "8p"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [],
+      "concealedKans": []
+    },
+    "winningTileIndex": 11,
+    "yaku": [
+      "ツモ",
+      "タンヤオ",
+      "ピンフ"
+    ],
+    "han": 3,
+    "fu": 20,
+    "correctAnswer": "1300all"
+  },
+  {
+    "roundInfo": "東2局",
+    "isDealer": true,
+    "isRiichi": true,
+    "doraIndicators": [],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "2m",
+          "3m",
+          "4m"
+        ],
+        [
+          "3p",
+          "4p",
+          "5p"
+        ],
+        [
+          "4s",
+          "5s",
+          "6s"
+        ],
+        [
+          "6p",
+          "7p",
+          "8p"
+        ],
+        [
+          "9s",
+          "9s"
+        ]
+      ],
+      "openGroups": [],
+      "concealedKans": []
+    },
+    "winningTileIndex": 11,
+    "yaku": [
+      "リーチ",
+      "ピンフ",
+      "ツモ"
+    ],
+    "han": 3,
+    "fu": 20,
+    "correctAnswer": "1300all"
+  },
+  {
+    "roundInfo": "南1局",
+    "isDealer": true,
+    "isRiichi": true,
+    "doraIndicators": [
+      "1m"
+    ],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "2m",
+          "3m",
+          "4m"
+        ],
+        [
+          "3p",
+          "4p",
+          "5p"
+        ],
+        [
+          "4s",
+          "5s",
+          "6s"
+        ],
+        [
+          "7p",
+          "8p",
+          "9p"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [],
+      "concealedKans": []
+    },
+    "winningTileIndex": 11,
+    "yaku": [
+      "リーチ",
+      "ツモ",
+      "ピンフ",
+      "ドラ1"
+    ],
+    "han": 4,
+    "fu": 20,
+    "correctAnswer": "2600all"
+  },
+  {
+    "roundInfo": "南2局",
+    "isDealer": true,
+    "isRiichi": true,
+    "doraIndicators": [],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "2m",
+          "3m",
+          "4m"
+        ],
+        [
+          "3p",
+          "4p",
+          "5p"
+        ],
+        [
+          "4s",
+          "5s",
+          "6s"
+        ],
+        [
+          "6p",
+          "7p",
+          "8p"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [],
+      "concealedKans": []
+    },
+    "winningTileIndex": 11,
+    "yaku": [
+      "リーチ",
+      "ツモ",
+      "タンヤオ",
+      "ピンフ"
+    ],
+    "han": 4,
+    "fu": 20,
+    "correctAnswer": "2600all"
+  },
+  {
+    "roundInfo": "南3局",
+    "isDealer": true,
+    "isRiichi": true,
+    "doraIndicators": [
+      "1m"
+    ],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "2m",
+          "3m",
+          "4m"
+        ],
+        [
+          "3p",
+          "4p",
+          "5p"
+        ],
+        [
+          "4s",
+          "5s",
+          "6s"
+        ],
+        [
+          "6p",
+          "7p",
+          "8p"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [],
+      "concealedKans": []
+    },
+    "winningTileIndex": 11,
+    "yaku": [
+      "リーチ",
+      "ツモ",
+      "タンヤオ",
+      "ピンフ",
+      "ドラ1"
+    ],
+    "han": 5,
+    "fu": 20,
+    "correctAnswer": "4000all"
+  },
+  {
+    "roundInfo": "東3局",
+    "isDealer": true,
+    "isRiichi": false,
+    "doraIndicators": [],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "2m",
+          "3m",
+          "4m"
+        ],
+        [
+          "3p",
+          "4p",
+          "5p"
+        ],
+        [
+          "4s",
+          "5s",
+          "6s"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [
+        [
+          "6p",
+          "7p",
+          "8p"
+        ]
+      ],
+      "concealedKans": []
+    },
+    "winningTileIndex": 13,
+    "yaku": [
+      "タンヤオ"
+    ],
+    "han": 1,
+    "fu": 30,
+    "correctAnswer": "500all"
+  },
+  {
+    "roundInfo": "東1局",
+    "isDealer": true,
+    "isRiichi": false,
+    "doraIndicators": [],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "1m",
+          "2m",
+          "3m"
+        ],
+        [
+          "4m",
+          "5m",
+          "6m"
+        ],
+        [
+          "7m",
+          "8m",
+          "9m"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [
+        [
+          "6p",
+          "7p",
+          "8p"
+        ]
+      ],
+      "concealedKans": []
+    },
+    "winningTileIndex": 13,
+    "yaku": [
+      "一気通貫"
+    ],
+    "han": 1,
+    "fu": 30,
+    "correctAnswer": "500all"
+  },
+  {
+    "roundInfo": "東4局",
+    "isDealer": true,
+    "isRiichi": false,
+    "doraIndicators": [],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "2m",
+          "3m",
+          "4m"
+        ],
+        [
+          "2p",
+          "3p",
+          "4p"
+        ],
+        [
+          "2s",
+          "3s",
+          "4s"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [
+        [
+          "6p",
+          "7p",
+          "8p"
+        ]
+      ],
+      "concealedKans": []
+    },
+    "winningTileIndex": 13,
+    "yaku": [
+      "タンヤオ",
+      "三色同順"
+    ],
+    "han": 2,
+    "fu": 30,
+    "correctAnswer": "1000all"
+  },
+  {
+    "roundInfo": "東4局",
+    "isDealer": true,
+    "isRiichi": false,
+    "doraIndicators": [
+      "1m"
+    ],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "2m",
+          "3m",
+          "4m"
+        ],
+        [
+          "2s",
+          "3s",
+          "4s"
+        ],
+        [
+          "6p",
+          "7p",
+          "8p"
+        ],
+        [
+          "7s",
+          "7s"
+        ]
+      ],
+      "openGroups": [
+        [
+          "2p",
+          "3p",
+          "4p"
+        ]
+      ],
+      "concealedKans": []
+    },
+    "winningTileIndex": 13,
+    "yaku": [
+      "タンヤオ",
+      "三色同順",
+      "ドラ1"
+    ],
+    "han": 3,
+    "fu": 30,
+    "correctAnswer": "2000all"
+  },
+  {
+    "roundInfo": "東4局",
+    "isDealer": true,
+    "isRiichi": false,
+    "doraIndicators": [],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "1m",
+          "2m",
+          "3m"
+        ],
+        [
+          "1s",
+          "2s",
+          "3s"
+        ],
+        [
+          "1p",
+          "2p",
+          "3p"
+        ],
+        [
+          "9s",
+          "9s"
+        ]
+      ],
+      "openGroups": [
+        [
+          "7p",
+          "8p",
+          "9p"
+        ]
+      ],
+      "concealedKans": []
+    },
+    "winningTileIndex": 13,
+    "yaku": [
+      "純チャン",
+      "三色同順"
+    ],
+    "han": 3,
+    "fu": 30,
+    "correctAnswer": "2000all"
+  },
+  {
+    "roundInfo": "東4局",
+    "isDealer": true,
+    "isRiichi": false,
+    "doraIndicators": [
+      "9s"
+    ],
+    "uraDoraIndicators": [],
+    "winType": "ツモ",
+    "hand": {
+      "groups": [
+        [
+          "1m",
+          "2m",
+          "3m"
+        ],
+        [
+          "1s",
+          "2s",
+          "3s"
+        ],
+        [
+          "1s",
+          "2s",
+          "3s"
+        ],
+        [
+          "9s",
+          "9s"
+        ]
+      ],
+      "openGroups": [
+        [
+          "7p",
+          "8p",
+          "9p"
+        ]
+      ],
+      "concealedKans": []
+    },
+    "winningTileIndex": 13,
+    "yaku": [
+      "純チャン",
+      "ドラ2"
+    ],
+    "han": 4,
+    "fu": 30,
+    "correctAnswer": "4000all"
+  }
+]
