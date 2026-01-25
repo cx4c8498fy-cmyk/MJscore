@@ -37,7 +37,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 13,
+    "winningTileIndex": 6,
     "yaku": [
       "タンヤオ"
     ],
@@ -65,8 +65,8 @@
           "4p"
         ],
         [
-          "6p",
-          "6p",
+          "4p",
+          "5p",
           "6p"
         ],
         [
@@ -83,7 +83,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 13,
+    "winningTileIndex": 3,
     "yaku": [
       "タンヤオ"
     ],
@@ -131,7 +131,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 13,
+    "winningTileIndex": 6,
     "yaku": [
       "タンヤオ",
       "ドラ1"
@@ -178,7 +178,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 13,
+    "winningTileIndex": 6,
     "yaku": [
       "タンヤオ",
       "三色同順"
@@ -274,7 +274,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 13,
+    "winningTileIndex": 6,
     "yaku": [
       "タンヤオ",
       "ドラ2"
@@ -509,7 +509,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 13,
+    "winningTileIndex": 6,
     "yaku": [
       "タンヤオ",
       "ドラ3"
@@ -561,9 +561,9 @@
     "yaku": [
       "タンヤオ"
     ],
-    "han": 3,
+    "han": 1,
     "fu": 40,
-    "correctAnswer": "2600all"
+    "correctAnswer": "700all"
   },
   {
     "roundInfo": "西2局",
@@ -605,12 +605,12 @@
         ]
       ]
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 3,
     "yaku": [
       "タンヤオ"
     ],
-    "han": 3,
+    "han": 1,
     "fu": 50,
-    "correctAnswer": "3200all"
+    "correctAnswer": "800all"
   }
 ]

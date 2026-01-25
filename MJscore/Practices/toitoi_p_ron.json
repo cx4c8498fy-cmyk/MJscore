@@ -20,9 +20,9 @@
           "3p"
         ],
         [
-          "9s",
-          "9s",
-          "9s"
+          "5s",
+          "5s",
+          "5s"
         ],
         [
           "5p",
@@ -37,7 +37,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 2,
     "yaku": [
       "トイトイ"
     ],
@@ -83,7 +83,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 3,
     "yaku": [
       "タンヤオ",
       "トイトイ"
@@ -130,7 +130,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 6,
     "yaku": [
       "トイトイ"
     ],
@@ -176,7 +176,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 3,
     "yaku": [
       "トイトイ"
     ],
@@ -222,7 +222,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 3,
     "yaku": [
       "トイトイ",
       "ハツ"
@@ -271,7 +271,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 6,
     "yaku": [
       "トイトイ",
       "ドラ2"
@@ -365,7 +365,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 6,
     "yaku": [
       "トイトイ"
     ],
@@ -411,7 +411,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 6,
     "yaku": [
       "ハツ",
       "トイトイ"
@@ -459,7 +459,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 6,
     "yaku": [
       "ハツ",
       "トイトイ"
@@ -507,7 +507,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 6,
     "yaku": [
       "ハツ",
       "トイトイ"
@@ -547,17 +547,16 @@
           "3m"
         ]
       ],
-      "concealedKans": []
-    },
-    "concealedKans": [
-      [
-        "1s",
-        "1s",
-        "1s",
-        "1s"
+      "concealedKans": [
+        [
+          "1s",
+          "1s",
+          "1s",
+          "1s"
+        ]
       ]
-    ],
-    "winningTileIndex": 10,
+    },
+    "winningTileIndex": 6,
     "yaku": [
       "トイトイ"
     ],
@@ -596,17 +595,16 @@
           "3m"
         ]
       ],
-      "concealedKans": []
-    },
-    "concealedKans": [
-      [
-        "6z",
-        "6z",
-        "6z",
-        "6z"
+      "concealedKans": [
+        [
+          "6z",
+          "6z",
+          "6z",
+          "6z"
+        ]
       ]
-    ],
-    "winningTileIndex": 10,
+    },
+    "winningTileIndex": 6,
     "yaku": [
       "ハツ",
       "トイトイ"
@@ -640,29 +638,28 @@
         ]
       ],
       "openGroups": [
-                [
+        [
           "3m",
           "3m",
           "3m"
         ]
       ],
-      "concealedKans": []
-    },
-    "concealedKans": [
-      [
-        "1s",
-        "1s",
-        "1s",
-        "1s"
+      "concealedKans": [
+        [
+          "1s",
+          "1s",
+          "1s",
+          "1s"
+        ]
       ]
-    ],
+    },
     "winningTileIndex": 8,
     "yaku": [
       "トイトイ"
     ],
     "han": 2,
     "fu": 80,
-    "correctAnswer": "9600"
+    "correctAnswer": "7700"
   },
   {
     "roundInfo": "南2局",
@@ -689,22 +686,21 @@
         ]
       ],
       "openGroups": [
-                [
+        [
           "3m",
           "3m",
           "3m"
         ]
       ],
-      "concealedKans": []
-    },
-    "concealedKans": [
-      [
-        "6z",
-        "6z",
-        "6z",
-        "6z"
+      "concealedKans": [
+        [
+          "6z",
+          "6z",
+          "6z",
+          "6z"
+        ]
       ]
-    ],
+    },
     "winningTileIndex": 8,
     "yaku": [
       "ハツ",
