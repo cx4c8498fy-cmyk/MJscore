@@ -1,6 +1,7 @@
 [
   {
     "roundInfo": "東2局",
+    "questionNumber": 1,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [],
@@ -47,6 +48,7 @@
   },
   {
     "roundInfo": "南1局",
+    "questionNumber": 2,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [],
@@ -93,6 +95,7 @@
   },
   {
     "roundInfo": "東4局",
+    "questionNumber": 3,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [],
@@ -140,6 +143,7 @@
   },
   {
     "roundInfo": "東1局",
+    "questionNumber": 4,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [],
@@ -186,6 +190,7 @@
   },
   {
     "roundInfo": "東4局",
+    "questionNumber": 5,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [
@@ -235,6 +240,7 @@
   },
   {
     "roundInfo": "東3局",
+    "questionNumber": 6,
     "isDealer": false,
     "isRiichi": true,
     "doraIndicators": [],
@@ -282,6 +288,7 @@
   },
   {
     "roundInfo": "南2局",
+    "questionNumber": 7,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [
@@ -332,6 +339,7 @@
   },
   {
     "roundInfo": "南1局",
+    "questionNumber": 8,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [],
@@ -378,6 +386,7 @@
   },
   {
     "roundInfo": "東1局",
+    "questionNumber": 9,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [],
@@ -424,6 +433,7 @@
   },
   {
     "roundInfo": "東3局",
+    "questionNumber": 10,
     "isDealer": false,
     "isRiichi": true,
     "doraIndicators": [],
@@ -471,6 +481,7 @@
   },
   {
     "roundInfo": "南4局",
+    "questionNumber": 11,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [
@@ -520,6 +531,7 @@
   },
   {
     "roundInfo": "西2局",
+    "questionNumber": 12,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [],
@@ -567,6 +579,7 @@
   },
   {
     "roundInfo": "西2局",
+    "questionNumber": 13,
     "isDealer": false,
     "isRiichi": false,
     "doraIndicators": [],

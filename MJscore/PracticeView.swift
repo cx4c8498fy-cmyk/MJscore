@@ -322,9 +322,11 @@ private struct QuestionInfoView: View {
             HStack {
                 Text("\(question.roundInfo)  問題\(index)/\(total)")
                     .font(.system(size: 16, weight: .bold))
+                    .foregroundStyle(Color(red: 0.22, green: 0.15, blue: 0.1))
                 Spacer()
                 Text(question.isDealer ? "親" : "子")
                     .font(.system(size: 16, weight: .bold))
+                    .foregroundStyle(Color(red: 0.22, green: 0.15, blue: 0.1))
             }
 
             HStack(spacing: 10) {
@@ -414,6 +416,7 @@ private struct InfoChip: View {
     var body: some View {
         Text(title)
             .font(.system(size: 13, weight: .bold))
+            .foregroundStyle(Color(red: 0.22, green: 0.15, blue: 0.1))
             .padding(.horizontal, 10)
             .padding(.vertical, 6)
             .background(Color(red: 0.85, green: 0.78, blue: 0.66))
@@ -558,9 +561,11 @@ private struct ResultOverlay: View {
             VStack(spacing: 16) {
                 Text("成績")
                     .font(.system(size: 24, weight: .bold))
+                    .foregroundStyle(Color(red: 0.22, green: 0.15, blue: 0.1))
 
                 Text("\(result.totalQuestions)問中 \(result.correctCount)問 正解")
                     .font(.system(size: 20, weight: .bold))
+                    .foregroundStyle(Color(red: 0.22, green: 0.15, blue: 0.1))
 
                 HStack(spacing: 12) {
                     Button(action: onRetry) {

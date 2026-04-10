@@ -26,6 +26,7 @@ struct OptionView: View {
                     } label: {
                         Image(systemName: "house")
                             .font(.system(size: 18, weight: .bold))
+                            .foregroundStyle(Color(red: 0.23, green: 0.16, blue: 0.1))
                     }
                     Spacer()
                     Text("オプション")
@@ -40,6 +41,7 @@ struct OptionView: View {
                     Toggle(isOn: $appSettings.isPracticeBGMEnabled) {
                         Text("練習中BGM")
                             .font(.system(size: 16, weight: .bold))
+                            .foregroundStyle(Color(red: 0.23, green: 0.16, blue: 0.1))
                     }
                     .toggleStyle(SwitchToggleStyle(tint: Color(red: 0.32, green: 0.58, blue: 0.42)))
                     .padding(.horizontal, 12)
