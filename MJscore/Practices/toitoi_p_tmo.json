@@ -38,7 +38,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 2,
+    "winningTileIndex": 1,
     "yaku": [
       "トイトイ"
     ],
@@ -92,7 +92,7 @@
     ],
     "han": 3,
     "fu": 30,
-    "correctAnswer": "2600all"
+    "correctAnswer": "2000all"
   },
   {
     "roundInfo": "東1局",

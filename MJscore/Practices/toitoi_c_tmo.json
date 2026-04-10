@@ -38,7 +38,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 2,
+    "winningTileIndex": 1,
     "yaku": [
       "トイトイ"
     ],
@@ -85,14 +85,14 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 2,
+    "winningTileIndex": 1,
     "yaku": [
       "タンヤオ",
       "トイトイ"
     ],
     "han": 3,
     "fu": 40,
-    "correctAnswer": "700/1300"
+    "correctAnswer": "1300/2600"
   },
   {
     "roundInfo": "東1局",
@@ -326,7 +326,7 @@
       ],
       "concealedKans": []
     },
-    "winningTileIndex": 10,
+    "winningTileIndex": 8,
     "yaku": [
       "トイトイ",
       "三暗刻"
